@@ -1,0 +1,144 @@
+{
+  "Xiaomi Mi Electric Scooter Pro 2": {
+    "peso_vuoto": 14.2,
+    "cx": 0.80,
+    "area_frontale": 0.60,
+    "efficienza_motore": 0.85,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Hub",
+        "potenza_max_cv": 0.8,
+        "batteria_wh": 474,
+        "autonomia_km": 45
+      },
+      "resistenza_meccanica": {
+        "efficienza_totale_driveline": 0.95
+      }
+    }
+  },
+  "Segway Ninebot F40E": {
+    "peso_vuoto": 17.4,
+    "cx": 0.82,
+    "area_frontale": 0.62,
+    "efficienza_motore": 0.86,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Hub Anteriore",
+        "potenza_nominale_w": 350,
+        "potenza_picco_w": 700,
+        "potenza_max_cv": 0.47,
+        "batteria_wh": 367,
+        "autonomia_km": 40
+      },
+      "pneumatici": "Tubeless 10 pollici",
+      "freni": "Elettronica + disco",
+      "pendenza_max_percent": 20,
+      "velocita_max_kmh": 25,
+      "modalita": "Eco, Drive, Sport"
+    }
+  },
+  "Segway Ninebot Max G2": {
+    "peso_vuoto": 24.3,
+    "cx": 0.79,
+    "area_frontale": 0.64,
+    "efficienza_motore": 0.87,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Hub",
+        "potenza_nominale_w": 450,
+        "potenza_picco_w": 900,
+        "potenza_max_cv": 0.60,
+        "batteria_wh": 551,
+        "autonomia_km": 70
+      },
+      "sospensioni": {
+        "anteriore": "Idraulica",
+        "posteriore": "Doppio molla"
+      },
+      "pneumatici": "10 pollici autocicatrizzanti",
+      "freni": "Tamburo anteriore + elettronico posteriore",
+      "clignotanti": true,
+      "protezione_IP": "IPX5 (corpo), IPX7 (batteria)",
+      "pendenza_max_percent": 22,
+      "connectivita": "Bluetooth, Find My"
+    }
+  },
+  "Xiaomi Electric Scooter 4 Ultra": {
+    "peso_vuoto": 25.0,
+    "cx": 0.78,
+    "area_frontale": 0.63,
+    "efficienza_motore": 0.88,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Hub",
+        "potenza_nominale_w": 500,
+        "potenza_picco_w": 940,
+        "potenza_max_cv": 0.67,
+        "batteria_wh": 515,
+        "autonomia_km": 70,
+        "tempo_ricarica_h": 6.5
+      },
+      "sospensioni": "Anteriore e posteriore",
+      "pneumatici": "10 pollici autocicatrizzanti",
+      "freni": "Tamburo anteriore + elettronico posteriore",
+      "protezione_IP": "IP55",
+      "pendenza_max_percent": 25,
+      "potenza_faro_w": 2.5,
+      "modalita": "Walk, Standard, Sport, Sport+"
+    }
+  },
+  "Ninebot by Segway S1": {
+    "peso_vuoto": 10.2,
+    "cx": 0.84,
+    "area_frontale": 0.55,
+    "efficienza_motore": 0.84,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Hub",
+        "potenza_max_w": 500,
+        "potenza_max_cv": 0.67,
+        "batteria_wh": 187,
+        "batteria_ah": 5.2,
+        "autonomia_km": 25,
+        "tempo_ricarica_h": 3,
+        "batteria_espandibile_km": 45
+      },
+      "telaio": {
+        "materiale": "Alluminio",
+        "pieghevole": true,
+        "dimensioni_piegato_cm": "114x15x22"
+      },
+      "pneumatici": "Anteriore 8 pollici, Posteriore 7.5 pollici",
+      "sistema_frenata_m": 4,
+      "peso_max_kg": 100,
+      "protezione_IP": "IP54 (corpo), IP67 (batteria)",
+      "connectivita": "App smartphone"
+    }
+  },
+  "Segway Ninebot S (Gyropod)": {
+    "peso_vuoto": 12.7,
+    "cx": 0.90,
+    "area_frontale": 0.50,
+    "efficienza_motore": 0.82,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Doppio motore (bilanciamento automatico)",
+        "potenza_totale_max_w": 700,
+        "potenza_installabile_w": 2000,
+        "potenza_max_cv": 0.94,
+        "batteria_tipo": "Ioni di Litio",
+        "autonomia_km": 22
+      },
+      "telaio": {
+        "materiale": "Metallo e alluminio",
+        "dimensioni_cm": "54.8x26x60"
+      },
+      "velocita_max_kmh": 16,
+      "pendenza_max_percent": 15,
+      "peso_max_kg": 85,
+      "protezione_IP": "IP54",
+      "illuminazione": "Fari automatici LED + luci posteriori",
+      "equilibrio": "Automatico"
+    }
+  }
+}

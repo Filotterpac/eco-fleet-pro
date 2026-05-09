@@ -1,0 +1,139 @@
+
+{
+  "Bici da Corsa (Muscolare)": {
+    "peso_vuoto": 8.5,
+    "cx": 0.60,
+    "area_frontale": 0.40,
+    "muscolare": true,
+    "specifiche_avanzate": {
+      "tipo": "corsa",
+      "materiale_telaio": "Carbonio",
+      "cambio": "Shimano 105",
+      "rapporti": 11
+    }
+  },
+  "E-Bike City (Pedalata Assistita)": {
+    "peso_vuoto": 22.0,
+    "cx": 0.80,
+    "area_frontale": 0.55,
+    "efficienza_motore": 0.80,
+    "muscolare": false,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Mid-Drive",
+        "potenza_max_cv": 0.33,
+        "batteria_wh": 500,
+        "autonomia_km": 80
+      },
+      "telaio": "Alluminio",
+      "cambio": "Shimano 7v"
+    }
+  },
+  "E-Bike Pieghevole Fiido D11 (2025)": {
+    "peso_vuoto": 19.6,
+    "cx": 0.78,
+    "area_frontale": 0.52,
+    "efficienza_motore": 0.82,
+    "muscolare": false,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Hub Posteriore",
+        "potenza_nominale_w": 250,
+        "potenza_max_cv": 0.34,
+        "batteria_wh": 360,
+        "batteria_v": 36,
+        "batteria_ah": 10,
+        "autonomia_km": 86,
+        "sensore": "Coppia"
+      },
+      "telaio": {
+        "materiale": "Alluminio",
+        "tipologia": "Pieghevole",
+        "dimensioni_piegata": "840x400x740 mm"
+      },
+      "cambio": "Shimano 7v (11-28T)",
+      "freni": "Disco idraulici",
+      "ruote_pollici": 20,
+      "protezione_IP": "IP54"
+    }
+  },
+  "E-Bike Enduro Cannondale Moterra SL 1 (2025)": {
+    "peso_vuoto": 21.5,
+    "cx": 0.72,
+    "area_frontale": 0.58,
+    "efficienza_motore": 0.85,
+    "muscolare": false,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Shimano EP801",
+        "coppia_max_nm": 85,
+        "potenza_max_cv": 0.82,
+        "batteria_wh": 601,
+        "autonomia_km_wltp": "variabile",
+        "modalita": "Eco, Trail 1, Trail 2, Boost"
+      },
+      "telaio": {
+        "materiale": "Carbonio",
+        "escursione_anteriore_mm": 160,
+        "escursione_posteriore_mm": 150,
+        "tecnologia": "FlexPivot"
+      },
+      "cambio": "SRAM XO Eagle AXS 12v elettronico"
+    }
+  },
+  "E-Bike Città VIVOBIKE VC26G": {
+    "peso_vuoto": 23.8,
+    "cx": 0.82,
+    "area_frontale": 0.56,
+    "efficienza_motore": 0.78,
+    "muscolare": false,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Elettrico Hub Anteriore",
+        "potenza_nominale_w": 250,
+        "batteria_wh": 280,
+        "batteria_mah": 7800,
+        "batteria_v": 36,
+        "autonomia_km": 40,
+        "tempo_ricarica_h": 4
+      },
+      "telaio": {
+        "materiale": "Acciaio",
+        "ruote_pollici": 26
+      },
+      "cambio": "Shimano TY21",
+      "freni": "A tampone",
+      "velocita_max_kmh": 25
+    }
+  },
+  "E-Bike Pieghevole Engwe EP-2 3.0 Boost": {
+    "peso_vuoto": 32.0,
+    "cx": 0.85,
+    "area_frontale": 0.65,
+    "efficienza_motore": 0.80,
+    "muscolare": false,
+    "specifiche_avanzate": {
+      "motore": {
+        "tipo": "Posteriore Brushless",
+        "potenza_nominale_w": 250,
+        "coppia_max_nm": 55,
+        "batteria_wh": 624,
+        "batteria_v": 48,
+        "batteria_ah": 13,
+        "autonomia_km": 120,
+        "sensore": "Coppia"
+      },
+      "telaio": {
+        "materiale": "Alluminio 6061",
+        "tipologia": "Pieghevole",
+        "ruote_pollici": 20,
+        "pneumatici": "Fat-Tire 4.0 pollici"
+      },
+      "cambio": "Shimano Tourney 7v",
+      "freni": "Meccanici a disco 180mm",
+      "sospensione": "Forcella anteriore con lockout",
+      "display": "LCD YL80C",
+      "peso_max_kg": 150
+    }
+  }
+}

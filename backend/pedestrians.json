@@ -1,0 +1,12 @@
+{
+  "Camminata Veloce (Fit)": {
+    "peso_vuoto": 0, 
+    "muscolare": true,
+    "specifiche_avanzate": { "tipo": "camminata", "velocita_base_kmh": 5.0 }
+  },
+  "Corsa / Jogging": {
+    "peso_vuoto": 0,
+    "muscolare": true,
+    "specifiche_avanzate": { "tipo": "corsa", "velocita_base_kmh": 10.0 }
+  }
+}

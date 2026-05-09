@@ -1,0 +1,2948 @@
+{
+  "Opel Corsa F 1.2 Turbo (100cv)": {
+    "peso_vuoto": 1090,
+    "cx": 0.29,
+    "area_frontale": 2.12,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_benzina": 12.2,
+    "densita_benzina": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "PSA CMP",
+      "motore": {
+        "codice_motore": "EB2ADTD (F12XHT)",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 205,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione_manuale_6_marce": {
+        "rapporto_1": 3.416,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.972,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.642,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.89,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+
+  "Volkswagen Golf VIII 1.5 TSI (130cv)": {
+    "peso_vuoto": 1255,
+    "cx": 0.275,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.38,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "MQB Evo",
+      "motore": {
+        "codice_motore": "EA211 evo",
+        "tipo": "Benzina, 4 cilindri, Turbo",
+        "cilindrata_cc": 1498,
+        "potenza_max_cv": 130,
+        "coppia_max_nm": 200,
+        "regime_coppia_max_rpm": 1400,
+        "bsfc_minimo_g_kwh": 235,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.769,
+        "rapporto_2": 1.958,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.973,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.645,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.99,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Ford Fiesta 1.0 EcoBoost (100cv)": {
+    "peso_vuoto": 1164,
+    "cx": 0.32,
+    "area_frontale": 2.10,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2020,
+      "piattaforma": "Ford B-car",
+      "motore": {
+        "codice_motore": "Fox",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 998,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 170,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 245,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.583,
+        "rapporto_2": 1.952,
+        "rapporto_3": 1.241,
+        "rapporto_4": 0.868,
+        "rapporto_5": 0.675,
+        "rapporto_6": 0.544,
+        "rapporto_finale_differenziale": 4.280
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.88,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Peugeot 208 1.2 PureTech (100cv)": {
+    "peso_vuoto": 1090,
+    "cx": 0.29,
+    "area_frontale": 2.12,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "PSA CMP",
+      "motore": {
+        "codice_motore": "EB2ADTD",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 205,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.416,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.972,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.642,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.89,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Renault Clio V 1.0 TCe (90cv)": {
+    "peso_vuoto": 1164,
+    "cx": 0.30,
+    "area_frontale": 2.15,
+    "efficienza_motore": 0.35,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "CMF-B",
+      "motore": {
+        "codice_motore": "H4Dt",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 90,
+        "coppia_max_nm": 160,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 250,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.454,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.222,
+        "rapporto_4": 0.866,
+        "rapporto_5": 0.655,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 4.230
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.91,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 260,
+        "climatizzatore_acceso_W": 1450
+      }
+    }
+  },
+  "Toyota Aygo X 1.0 (72cv)": {
+    "peso_vuoto": 940,
+    "cx": 0.32,
+    "area_frontale": 2.05,
+    "efficienza_motore": 0.37,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "TNGA-B",
+      "motore": {
+        "codice_motore": "1KR-FE",
+        "tipo": "Benzina, 3 cilindri, Aspirato",
+        "cilindrata_cc": 998,
+        "potenza_max_cv": 72,
+        "coppia_max_nm": 93,
+        "regime_coppia_max_rpm": 4400,
+        "bsfc_minimo_g_kwh": 238,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 5 marce",
+        "rapporto_1": 3.545,
+        "rapporto_2": 1.913,
+        "rapporto_3": 1.310,
+        "rapporto_4": 1.027,
+        "rapporto_5": 0.850,
+        "rapporto_finale_differenziale": 4.312
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.83,
+        "efficienza_totale_driveline": 0.90
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 220,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  },
+  "Toyota Yaris 1.5 Hybrid (116cv)": {
+    "peso_vuoto": 1085,
+    "cx": 0.31,
+    "area_frontale": 2.10,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "TNGA-B",
+      "motore": {
+        "codice_motore": "M15A-FXE",
+        "tipo": "Ibrido Full, 3 cilindri",
+        "cilindrata_cc": 1490,
+        "potenza_max_cv": 116,
+        "coppia_max_nm": 120,
+        "regime_coppia_max_rpm": 3600,
+        "bsfc_minimo_g_kwh": 215,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "e-CVT",
+        "rapporto_1": 2.683,
+        "rapporto_finale_differenziale": 3.210
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.89,
+        "efficienza_totale_driveline": 0.85
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 150,
+        "climatizzatore_acceso_W": 1000
+      }
+    }
+  },
+  "Renault Captur E-Tech Hybrid (145cv)": {
+    "peso_vuoto": 1435,
+    "cx": 0.31,
+    "area_frontale": 2.30,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "CMF-B",
+      "motore": {
+        "codice_motore": "H4M",
+        "tipo": "Ibrido Full, 4 cilindri",
+        "cilindrata_cc": 1598,
+        "potenza_max_cv": 145,
+        "coppia_max_nm": 148,
+        "regime_coppia_max_rpm": 3200,
+        "bsfc_minimo_g_kwh": 220,
+        "minimo_motore_rpm": 900
+      },
+      "trasmissione": {
+        "tipo": "Multimode E-Tech (4+2 marce)",
+        "rapporto_1": 3.200,
+        "rapporto_2": 1.800,
+        "rapporto_3": 1.100,
+        "rapporto_4": 0.800,
+        "rapporto_finale_differenziale": 3.800
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1100
+      }
+    }
+  },
+  "Honda Jazz e:HEV (109cv)": {
+    "peso_vuoto": 1228,
+    "cx": 0.32,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "Global Small Car",
+      "motore": {
+        "codice_motore": "LEB8",
+        "tipo": "Ibrido Full, 4 cilindri",
+        "cilindrata_cc": 1498,
+        "potenza_max_cv": 109,
+        "coppia_max_nm": 253,
+        "regime_coppia_max_rpm": 4500,
+        "bsfc_minimo_g_kwh": 225,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "e-CVT (trazione elettrica maggioritaria)",
+        "rapporto_1": 2.450,
+        "rapporto_finale_differenziale": 3.421
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.88,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 160,
+        "climatizzatore_acceso_W": 1050
+      }
+    }
+  },
+  "Ford Puma 1.0 EcoBoost Hybrid (125cv)": {
+    "peso_vuoto": 1280,
+    "cx": 0.33,
+    "area_frontale": 2.30,
+    "efficienza_motore": 0.37,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "Ford B-car",
+      "motore": {
+        "codice_motore": "Fox MHEV",
+        "tipo": "Ibrido Mild, 3 cilindri, Turbo",
+        "cilindrata_cc": 998,
+        "potenza_max_cv": 125,
+        "coppia_max_nm": 210,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.583,
+        "rapporto_2": 1.952,
+        "rapporto_3": 1.241,
+        "rapporto_4": 0.868,
+        "rapporto_5": 0.675,
+        "rapporto_6": 0.544,
+        "rapporto_finale_differenziale": 4.580
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.04,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 200,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Fiat Panda 1.0 Hybrid (70cv)": {
+    "peso_vuoto": 1055,
+    "cx": 0.34,
+    "area_frontale": 2.15,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "Fiat Mini",
+      "motore": {
+        "codice_motore": "FireFly",
+        "tipo": "Ibrido Mild, 3 cilindri, Aspirato",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 70,
+        "coppia_max_nm": 92,
+        "regime_coppia_max_rpm": 3500,
+        "bsfc_minimo_g_kwh": 245,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 4.100,
+        "rapporto_2": 2.158,
+        "rapporto_3": 1.480,
+        "rapporto_4": 1.116,
+        "rapporto_5": 0.897,
+        "rapporto_6": 0.767,
+        "rapporto_finale_differenziale": 3.733
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.76,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1300
+      }
+    }
+  },
+  "Volkswagen Golf VIII 2.0 TDI (115cv)": {
+    "peso_vuoto": 1380,
+    "cx": 0.275,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.42,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "MQB Evo",
+      "motore": {
+        "codice_motore": "EA288 evo",
+        "tipo": "Diesel, 4 cilindri, Turbo",
+        "cilindrata_cc": 1968,
+        "potenza_max_cv": 115,
+        "coppia_max_nm": 300,
+        "regime_coppia_max_rpm": 1600,
+        "bsfc_minimo_g_kwh": 205,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.769,
+        "rapporto_2": 1.958,
+        "rapporto_3": 1.250,
+        "rapporto_4": 0.870,
+        "rapporto_5": 0.670,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 3.450
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.99,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 350,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Peugeot 308 1.5 BlueHDi (130cv)": {
+    "peso_vuoto": 1360,
+    "cx": 0.28,
+    "area_frontale": 2.25,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "EMP2",
+      "motore": {
+        "codice_motore": "DV5RC",
+        "tipo": "Diesel, 4 cilindri, Turbo",
+        "cilindrata_cc": 1499,
+        "potenza_max_cv": 130,
+        "coppia_max_nm": 300,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 210,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Automatico 8 marce (EAT8)",
+        "rapporto_1": 5.250,
+        "rapporto_2": 3.029,
+        "rapporto_3": 1.950,
+        "rapporto_4": 1.457,
+        "rapporto_5": 1.221,
+        "rapporto_6": 1.000,
+        "rapporto_7": 0.809,
+        "rapporto_8": 0.673,
+        "rapporto_finale_differenziale": 2.920
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.98,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 320,
+        "climatizzatore_acceso_W": 1550
+      }
+    }
+  },
+  "BMW 118d (150cv)": {
+    "peso_vuoto": 1430,
+    "cx": 0.26,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.42,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "FAAR",
+      "motore": {
+        "codice_motore": "B47",
+        "tipo": "Diesel, 4 cilindri, Turbo",
+        "cilindrata_cc": 1995,
+        "potenza_max_cv": 150,
+        "coppia_max_nm": 350,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 202,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.923,
+        "rapporto_2": 2.136,
+        "rapporto_3": 1.276,
+        "rapporto_4": 0.921,
+        "rapporto_5": 0.756,
+        "rapporto_6": 0.628,
+        "rapporto_finale_differenziale": 3.389
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.99,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 400,
+        "climatizzatore_acceso_W": 1700
+      }
+    }
+  },
+  "Alfa Romeo Giulia 2.2 Turbodiesel (160cv)": {
+    "peso_vuoto": 1540,
+    "cx": 0.25,
+    "area_frontale": 2.15,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "Giorgio",
+      "motore": {
+        "codice_motore": "2.2 JTDm",
+        "tipo": "Diesel, 4 cilindri, Turbo",
+        "cilindrata_cc": 2143,
+        "potenza_max_cv": 160,
+        "coppia_max_nm": 450,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 208,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Automatico 8 marce (ZF 8HP)",
+        "rapporto_1": 5.000,
+        "rapporto_2": 3.200,
+        "rapporto_3": 2.143,
+        "rapporto_4": 1.720,
+        "rapporto_5": 1.314,
+        "rapporto_6": 1.000,
+        "rapporto_7": 0.822,
+        "rapporto_8": 0.640,
+        "rapporto_finale_differenziale": 2.470
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 400,
+        "climatizzatore_acceso_W": 1800
+      }
+    }
+  },
+  "Skoda Octavia 2.0 TDI (150cv)": {
+    "peso_vuoto": 1420,
+    "cx": 0.27,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.42,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "MQB Evo",
+      "motore": {
+        "codice_motore": "EA288 evo",
+        "tipo": "Diesel, 4 cilindri, Turbo",
+        "cilindrata_cc": 1968,
+        "potenza_max_cv": 150,
+        "coppia_max_nm": 360,
+        "regime_coppia_max_rpm": 1700,
+        "bsfc_minimo_g_kwh": 205,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.769,
+        "rapporto_2": 1.958,
+        "rapporto_3": 1.250,
+        "rapporto_4": 0.870,
+        "rapporto_5": 0.670,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 3.450
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.00,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 350,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Dacia Sandero 1.0 Eco-G (100cv)": {
+    "peso_vuoto": 1160,
+    "cx": 0.31,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.34,
+    "potere_calorifico_carburante": 12.8,
+    "densita_carburante": 510,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "CMF-B LS",
+      "motore": {
+        "codice_motore": "H4Dt",
+        "tipo": "GPL/Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 170,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 260,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.454,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.222,
+        "rapporto_4": 0.866,
+        "rapporto_5": 0.655,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 4.230
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.91,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 260,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Renault Clio V 1.0 TCe GPL (100cv)": {
+    "peso_vuoto": 1180,
+    "cx": 0.30,
+    "area_frontale": 2.15,
+    "efficienza_motore": 0.34,
+    "potere_calorifico_carburante": 12.8,
+    "densita_carburante": 510,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "CMF-B",
+      "motore": {
+        "codice_motore": "H4Dt",
+        "tipo": "GPL/Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 170,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 260,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.454,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.222,
+        "rapporto_4": 0.866,
+        "rapporto_5": 0.655,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 4.230
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.91,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 260,
+        "climatizzatore_acceso_W": 1450
+      }
+    }
+  },
+  "Fiat Panda 1.2 EasyPower GPL (69cv)": {
+    "peso_vuoto": 1055,
+    "cx": 0.34,
+    "area_frontale": 2.15,
+    "efficienza_motore": 0.32,
+    "potere_calorifico_carburante": 12.8,
+    "densita_carburante": 510,
+    "specifiche_avanzate": {
+      "anno_produzione": 2020,
+      "piattaforma": "Fiat Mini",
+      "motore": {
+        "codice_motore": "169A4000",
+        "tipo": "GPL/Benzina, 4 cilindri, Aspirato",
+        "cilindrata_cc": 1242,
+        "potenza_max_cv": 69,
+        "coppia_max_nm": 102,
+        "regime_coppia_max_rpm": 3000,
+        "bsfc_minimo_g_kwh": 280,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 5 marce",
+        "rapporto_1": 3.909,
+        "rapporto_2": 2.158,
+        "rapporto_3": 1.480,
+        "rapporto_4": 1.121,
+        "rapporto_5": 0.897,
+        "rapporto_finale_differenziale": 3.438
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.76,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  },
+  "Kia Picanto 1.0 EcoGPL (67cv)": {
+    "peso_vuoto": 980,
+    "cx": 0.33,
+    "area_frontale": 2.05,
+    "efficienza_motore": 0.33,
+    "potere_calorifico_carburante": 12.8,
+    "densita_carburante": 510,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "Hyundai-Kia JA",
+      "motore": {
+        "codice_motore": "Kappa II",
+        "tipo": "GPL/Benzina, 3 cilindri, Aspirato",
+        "cilindrata_cc": 998,
+        "potenza_max_cv": 67,
+        "coppia_max_nm": 90,
+        "regime_coppia_max_rpm": 3500,
+        "bsfc_minimo_g_kwh": 275,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 5 marce",
+        "rapporto_1": 3.545,
+        "rapporto_2": 1.895,
+        "rapporto_3": 1.192,
+        "rapporto_4": 0.906,
+        "rapporto_5": 0.719,
+        "rapporto_finale_differenziale": 4.600
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.74,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 170,
+        "climatizzatore_acceso_W": 1150
+      }
+    }
+  },
+  "Hyundai i20 1.2 MPI GPL (84cv)": {
+    "peso_vuoto": 1120,
+    "cx": 0.31,
+    "area_frontale": 2.10,
+    "efficienza_motore": 0.33,
+    "potere_calorifico_carburante": 12.8,
+    "densita_carburante": 510,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "Hyundai-Kia BC3",
+      "motore": {
+        "codice_motore": "Kappa II 1.2",
+        "tipo": "GPL/Benzina, 4 cilindri, Aspirato",
+        "cilindrata_cc": 1197,
+        "potenza_max_cv": 84,
+        "coppia_max_nm": 118,
+        "regime_coppia_max_rpm": 4000,
+        "bsfc_minimo_g_kwh": 270,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 5 marce",
+        "rapporto_1": 3.545,
+        "rapporto_2": 1.895,
+        "rapporto_3": 1.192,
+        "rapporto_4": 0.906,
+        "rapporto_5": 0.719,
+        "rapporto_finale_differenziale": 4.438
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.89,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 200,
+        "climatizzatore_acceso_W": 1300
+      }
+    }
+  },
+  "Tesla Model 3 RWD (283cv)": {
+    "peso_vuoto": 1760,
+    "cx": 0.23,
+    "area_frontale": 2.22,
+    "efficienza_motore": 0.90,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "Tesla Model 3",
+      "motore": {
+        "codice_motore": "Motore Elettrico Sincrono a riluttanza",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 283,
+        "coppia_max_nm": 420,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore monomarcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 9.036
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.10,
+        "efficienza_totale_driveline": 0.95
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 800
+      }
+    }
+  },
+  "Volkswagen ID.3 Pro (204cv)": {
+    "peso_vuoto": 1815,
+    "cx": 0.27,
+    "area_frontale": 2.36,
+    "efficienza_motore": 0.89,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "MEB",
+      "motore": {
+        "codice_motore": "APP 310",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 204,
+        "coppia_max_nm": 310,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore monomarcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 11.530
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1000
+      }
+    }
+  },
+  "Peugeot e-208 (136cv)": {
+    "peso_vuoto": 1455,
+    "cx": 0.29,
+    "area_frontale": 2.10,
+    "efficienza_motore": 0.88,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "e-CMP",
+      "motore": {
+        "codice_motore": "Motore Elettrico PSA",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 136,
+        "coppia_max_nm": 260,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore monomarcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 8.010
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.89,
+        "efficienza_totale_driveline": 0.93
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 200,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  },
+  "Fiat 500e (118cv)": {
+    "peso_vuoto": 1290,
+    "cx": 0.31,
+    "area_frontale": 2.10,
+    "efficienza_motore": 0.87,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "STLA City",
+      "motore": {
+        "codice_motore": "Motore Elettrico Fiat",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 118,
+        "coppia_max_nm": 220,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore monomarcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 9.300
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.80,
+        "efficienza_totale_driveline": 0.93
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1000
+      }
+    }
+  },
+  "Hyundai Kona Electric (204cv)": {
+    "peso_vuoto": 1685,
+    "cx": 0.28,
+    "area_frontale": 2.30,
+    "efficienza_motore": 0.89,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2021,
+      "piattaforma": "Hyundai B-SUV",
+      "motore": {
+        "codice_motore": "EM16",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 204,
+        "coppia_max_nm": 395,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore monomarcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 7.981
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 220,
+        "climatizzatore_acceso_W": 900
+      }
+    }
+  },
+  
+  "Toyota C-HR 1.8 Hybrid (140cv)": {
+    "peso_vuoto": 1430,
+    "cx": 0.31,
+    "area_frontale": 2.35,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "TNGA-C",
+      "motore": {
+        "codice_motore": "2ZR-FXE",
+        "tipo": "Ibrido Full, 4 cil",
+        "cilindrata_cc": 1798,
+        "potenza_max_cv": 140,
+        "coppia_max_nm": 142,
+        "regime_coppia_max_rpm": 3600,
+        "bsfc_minimo_g_kwh": 220,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "e-CVT",
+        "rapporto_1": 2.683,
+        "rapporto_finale_differenziale": 3.210
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.08,
+        "efficienza_totale_driveline": 0.85
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  },
+  "Mazda 3 2.0 e-Skyactiv G (122cv)": {
+    "peso_vuoto": 1345,
+    "cx": 0.275,
+    "area_frontale": 2.18,
+    "efficienza_motore": 0.39,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "Skyactiv-Vehicle Architecture",
+      "motore": {
+        "codice_motore": "PE-VPS",
+        "tipo": "Ibrido Mild, 4 cil Aspirato",
+        "cilindrata_cc": 1998,
+        "potenza_max_cv": 122,
+        "coppia_max_nm": 213,
+        "regime_coppia_max_rpm": 4000,
+        "bsfc_minimo_g_kwh": 230,
+        "minimo_motore_rpm": 750
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.357,
+        "rapporto_2": 1.826,
+        "rapporto_3": 1.222,
+        "rapporto_4": 0.945,
+        "rapporto_5": 0.794,
+        "rapporto_6": 0.647,
+        "rapporto_finale_differenziale": 3.850
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.01,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 220,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Volvo EX30 Single Motor (272cv)": {
+    "peso_vuoto": 1830,
+    "cx": 0.28,
+    "area_frontale": 2.38,
+    "efficienza_motore": 0.90,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "SEA",
+      "motore": {
+        "codice_motore": "E-Motor RWD",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 272,
+        "coppia_max_nm": 343,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 8.700
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1100
+      }
+    }
+  },
+  "Hyundai Tucson 1.6 T-GDI HEV (230cv)": {
+    "peso_vuoto": 1639,
+    "cx": 0.33,
+    "area_frontale": 2.55,
+    "efficienza_motore": 0.39,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "N3",
+      "motore": {
+        "codice_motore": "Smartstream G1.6T",
+        "tipo": "Ibrido Full, 4 cil Turbo",
+        "cilindrata_cc": 1598,
+        "potenza_max_cv": 230,
+        "coppia_max_nm": 350,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 225,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "Automatico 6 marce",
+        "rapporto_1": 4.639,
+        "rapporto_2": 2.826,
+        "rapporto_3": 1.841,
+        "rapporto_4": 1.386,
+        "rapporto_5": 1.000,
+        "rapporto_6": 0.772,
+        "rapporto_finale_differenziale": 3.320
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.22,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 200,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Nissan Juke 1.0 DIG-T (114cv)": {
+    "peso_vuoto": 1257,
+    "cx": 0.32,
+    "area_frontale": 2.33,
+    "efficienza_motore": 0.35,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMF-B",
+      "motore": {
+        "codice_motore": "HR10DDT",
+        "tipo": "Benzina, 3 cil Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 114,
+        "coppia_max_nm": 200,
+        "regime_coppia_max_rpm": 3000,
+        "bsfc_minimo_g_kwh": 245,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.454,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.222,
+        "rapporto_4": 0.866,
+        "rapporto_5": 0.655,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 4.230
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Dacia Jogger 1.0 Eco-G (100cv)": {
+    "peso_vuoto": 1298,
+    "cx": 0.33,
+    "area_frontale": 2.40,
+    "efficienza_motore": 0.34,
+    "potere_calorifico_carburante": 12.8,
+    "densita_carburante": 510,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMF-B LS",
+      "motore": {
+        "codice_motore": "H4Dt",
+        "tipo": "GPL/Benzina, 3 cil Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 170,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 260,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.454,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.222,
+        "rapporto_4": 0.866,
+        "rapporto_5": 0.655,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 4.230
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.98,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 260,
+        "climatizzatore_acceso_W": 1550
+      }
+    }
+  },
+  "BMW 320d (190cv)": {
+    "peso_vuoto": 1605,
+    "cx": 0.23,
+    "area_frontale": 2.22,
+    "efficienza_motore": 0.43,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CLAR",
+      "motore": {
+        "codice_motore": "B47T",
+        "tipo": "Diesel Mild Hybrid, 4 cil Turbo",
+        "cilindrata_cc": 1995,
+        "potenza_max_cv": 190,
+        "coppia_max_nm": 400,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 198,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Automatico 8 marce (ZF 8HP)",
+        "rapporto_1": 5.000,
+        "rapporto_2": 3.200,
+        "rapporto_3": 2.143,
+        "rapporto_4": 1.720,
+        "rapporto_5": 1.314,
+        "rapporto_6": 1.000,
+        "rapporto_7": 0.822,
+        "rapporto_8": 0.640,
+        "rapporto_finale_differenziale": 2.813
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Alfa Romeo Stelvio 2.2 Turbodiesel (210cv)": {
+    "peso_vuoto": 1745,
+    "cx": 0.30,
+    "area_frontale": 2.55,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "Giorgio",
+      "motore": {
+        "codice_motore": "2.2 JTDm",
+        "tipo": "Diesel, 4 cil Turbo",
+        "cilindrata_cc": 2143,
+        "potenza_max_cv": 210,
+        "coppia_max_nm": 470,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 208,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Automatico 8 marce (ZF 8HP)",
+        "rapporto_1": 5.000,
+        "rapporto_2": 3.200,
+        "rapporto_3": 2.143,
+        "rapporto_4": 1.720,
+        "rapporto_5": 1.314,
+        "rapporto_6": 1.000,
+        "rapporto_7": 0.822,
+        "rapporto_8": 0.640,
+        "rapporto_finale_differenziale": 3.270
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 450,
+        "climatizzatore_acceso_W": 1800
+      }
+    }
+  },
+  "Renault Megane E-Tech (220cv)": {
+    "peso_vuoto": 1711,
+    "cx": 0.29,
+    "area_frontale": 2.28,
+    "efficienza_motore": 0.89,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMF-EV",
+      "motore": {
+        "codice_motore": "EESM",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 220,
+        "coppia_max_nm": 300,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 9.050
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 220,
+        "climatizzatore_acceso_W": 1100
+      }
+    }
+  },
+  "Peugeot 2008 1.2 PureTech (100cv)": {
+    "peso_vuoto": 1263,
+    "cx": 0.31,
+    "area_frontale": 2.38,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMP",
+      "motore": {
+        "codice_motore": "EB2ADTD",
+        "tipo": "Benzina, 3 cil Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 205,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.416,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.972,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.642,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Opel Mokka 1.2 Turbo (100cv)": {
+    "peso_vuoto": 1270,
+    "cx": 0.32,
+    "area_frontale": 2.35,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMP",
+      "motore": {
+        "codice_motore": "EB2ADTD",
+        "tipo": "Benzina, 3 cil Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 100,
+        "coppia_max_nm": 205,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.416,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.972,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.642,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Toyota Corolla 1.8 Hybrid (140cv)": {
+    "peso_vuoto": 1420,
+    "cx": 0.28,
+    "area_frontale": 2.22,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "TNGA-C",
+      "motore": {
+        "codice_motore": "2ZR-FXE",
+        "tipo": "Ibrido Full, 4 cil",
+        "cilindrata_cc": 1798,
+        "potenza_max_cv": 140,
+        "coppia_max_nm": 142,
+        "regime_coppia_max_rpm": 3600,
+        "bsfc_minimo_g_kwh": 220,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "e-CVT",
+        "rapporto_1": 2.683,
+        "rapporto_finale_differenziale": 3.210
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.00,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 160,
+        "climatizzatore_acceso_W": 1300
+      }
+    }
+  },
+  "Honda Civic e:HEV (184cv)": {
+    "peso_vuoto": 1533,
+    "cx": 0.27,
+    "area_frontale": 2.25,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "Honda Architecture",
+      "motore": {
+        "codice_motore": "LFB1",
+        "tipo": "Ibrido Full, 4 cil",
+        "cilindrata_cc": 1993,
+        "potenza_max_cv": 184,
+        "coppia_max_nm": 315,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 215,
+        "minimo_motore_rpm": 1100
+      },
+      "trasmissione": {
+        "tipo": "e-CVT (trazione elettrica maggioritaria)",
+        "rapporto_1": 2.450,
+        "rapporto_finale_differenziale": 3.421
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Cupra Leon 1.5 eTSI (150cv)": {
+    "peso_vuoto": 1395,
+    "cx": 0.28,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.38,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "MQB Evo",
+      "motore": {
+        "codice_motore": "EA211 evo",
+        "tipo": "Ibrido Mild, 4 cil Turbo",
+        "cilindrata_cc": 1498,
+        "potenza_max_cv": 150,
+        "coppia_max_nm": 250,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 230,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "DSG 7 marce",
+        "rapporto_1": 3.500,
+        "rapporto_2": 2.270,
+        "rapporto_3": 1.530,
+        "rapporto_4": 1.120,
+        "rapporto_5": 0.850,
+        "rapporto_6": 0.700,
+        "rapporto_7": 0.580,
+        "rapporto_finale_differenziale": 4.100
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.01,
+        "efficienza_totale_driveline": 0.90
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Polestar 2 Standard Range (272cv)": {
+    "peso_vuoto": 1940,
+    "cx": 0.278,
+    "area_frontale": 2.31,
+    "efficienza_motore": 0.90,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMA",
+      "motore": {
+        "codice_motore": "E-Motor RWD",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 272,
+        "coppia_max_nm": 490,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 8.570
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1100
+      }
+    }
+  },
+
+  "Kia Niro 1.6 HEV (141cv)": {
+    "peso_vuoto": 1490,
+    "cx": 0.29,
+    "area_frontale": 2.35,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "Hyundai-Kia K3",
+      "motore": {
+        "codice_motore": "Smartstream G1.6",
+        "tipo": "Ibrido Full, 4 cil Aspirato",
+        "cilindrata_cc": 1580,
+        "potenza_max_cv": 141,
+        "coppia_max_nm": 265,
+        "regime_coppia_max_rpm": 4000,
+        "bsfc_minimo_g_kwh": 220,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "Automatico DCT 6 marce",
+        "rapporto_1": 3.867,
+        "rapporto_2": 2.216,
+        "rapporto_3": 1.371,
+        "rapporto_4": 0.893,
+        "rapporto_5": 0.865,
+        "rapporto_6": 0.697,
+        "rapporto_finale_differenziale": 4.438
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.08,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1300
+      }
+    }
+  },
+  "Renault Austral E-Tech Full Hybrid (200cv)": {
+    "peso_vuoto": 1517,
+    "cx": 0.32,
+    "area_frontale": 2.45,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMF-CD",
+      "motore": {
+        "codice_motore": "HR12",
+        "tipo": "Ibrido Full, 3 cil Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 200,
+        "coppia_max_nm": 410,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 215,
+        "minimo_motore_rpm": 900
+      },
+      "trasmissione": {
+        "tipo": "Multimode E-Tech (4+2 marce)",
+        "rapporto_1": 3.200,
+        "rapporto_2": 1.800,
+        "rapporto_3": 1.100,
+        "rapporto_4": 0.800,
+        "rapporto_finale_differenziale": 3.900
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 190,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "BMW i4 eDrive40 (340cv)": {
+    "peso_vuoto": 2125,
+    "cx": 0.24,
+    "area_frontale": 2.31,
+    "efficienza_motore": 0.91,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CLAR",
+      "motore": {
+        "codice_motore": "HA0001N0",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 340,
+        "coppia_max_nm": 430,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 8.765
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.18,
+        "efficienza_totale_driveline": 0.95
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  },
+  "SEAT Ibiza 1.0 TSI (110cv)": {
+    "peso_vuoto": 1160,
+    "cx": 0.30,
+    "area_frontale": 2.15,
+    "efficienza_motore": 0.35,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "MQB A0",
+      "motore": {
+        "codice_motore": "EA211 evo",
+        "tipo": "Benzina, 3 cil Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 110,
+        "coppia_max_nm": 200,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 245,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.769,
+        "rapporto_2": 1.958,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.973,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.645,
+        "rapporto_finale_differenziale": 3.933
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.95,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Skoda Superb 2.0 TDI (150cv)": {
+    "peso_vuoto": 1560,
+    "cx": 0.25,
+    "area_frontale": 2.25,
+    "efficienza_motore": 0.43,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "MQB Evo",
+      "motore": {
+        "codice_motore": "EA288 evo",
+        "tipo": "Diesel, 4 cil Turbo",
+        "cilindrata_cc": 1968,
+        "potenza_max_cv": 150,
+        "coppia_max_nm": 360,
+        "regime_coppia_max_rpm": 1600,
+        "bsfc_minimo_g_kwh": 202,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "DSG 7 marce",
+        "rapporto_1": 3.500,
+        "rapporto_2": 2.270,
+        "rapporto_3": 1.540,
+        "rapporto_4": 1.070,
+        "rapporto_5": 0.820,
+        "rapporto_6": 0.650,
+        "rapporto_7": 0.560,
+        "rapporto_finale_differenziale": 4.100
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.08,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 350,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Suzuki Ignis 1.2 Hybrid (83cv)": {
+    "peso_vuoto": 935,
+    "cx": 0.34,
+    "area_frontale": 2.10,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "Heartect",
+      "motore": {
+        "codice_motore": "K12D",
+        "tipo": "Ibrido Mild, 4 cil Aspirato",
+        "cilindrata_cc": 1197,
+        "potenza_max_cv": 83,
+        "coppia_max_nm": 107,
+        "regime_coppia_max_rpm": 2800,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 750
+      },
+      "trasmissione": {
+        "tipo": "Manuale 5 marce",
+        "rapporto_1": 3.545,
+        "rapporto_2": 1.904,
+        "rapporto_3": 1.240,
+        "rapporto_4": 0.906,
+        "rapporto_5": 0.696,
+        "rapporto_finale_differenziale": 4.294
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.83,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 160,
+        "climatizzatore_acceso_W": 1100
+      }
+    }
+  },
+  "Volvo XC40 B3 (163cv)": {
+    "peso_vuoto": 1660,
+    "cx": 0.34,
+    "area_frontale": 2.55,
+    "efficienza_motore": 0.38,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMA",
+      "motore": {
+        "codice_motore": "B420T",
+        "tipo": "Ibrido Mild, 4 cil Turbo",
+        "cilindrata_cc": 1969,
+        "potenza_max_cv": 163,
+        "coppia_max_nm": 265,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 235,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Automatico DCT 7 marce",
+        "rapporto_1": 4.810,
+        "rapporto_2": 2.900,
+        "rapporto_3": 1.890,
+        "rapporto_4": 1.400,
+        "rapporto_5": 1.000,
+        "rapporto_6": 0.770,
+        "rapporto_7": 0.610,
+        "rapporto_finale_differenziale": 4.100
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.22,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1700
+      }
+    }
+  },
+  "Dacia Duster 1.2 TCe 130 Mild Hybrid (130cv)": {
+    "peso_vuoto": 1304,
+    "cx": 0.33,
+    "area_frontale": 2.45,
+    "efficienza_motore": 0.38,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "CMF-B",
+      "motore": {
+        "codice_motore": "HR12",
+        "tipo": "Ibrido Mild 48V, 3 cil Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 130,
+        "coppia_max_nm": 230,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 235,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.727,
+        "rapporto_2": 2.048,
+        "rapporto_3": 1.393,
+        "rapporto_4": 1.029,
+        "rapporto_5": 0.820,
+        "rapporto_6": 0.690,
+        "rapporto_finale_differenziale": 4.562
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.10,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Hyundai Ioniq 5 RWD (228cv)": {
+    "peso_vuoto": 1935,
+    "cx": 0.288,
+    "area_frontale": 2.50,
+    "efficienza_motore": 0.90,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "E-GMP",
+      "motore": {
+        "codice_motore": "EM07",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 228,
+        "coppia_max_nm": 350,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 10.650
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  },
+  "MG HS 1.5 T-GDI (162cv)": {
+    "peso_vuoto": 1535,
+    "cx": 0.33,
+    "area_frontale": 2.55,
+    "efficienza_motore": 0.35,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "SAIC SSA",
+      "motore": {
+        "codice_motore": "15E4E",
+        "tipo": "Benzina, 4 cil Turbo",
+        "cilindrata_cc": 1490,
+        "potenza_max_cv": 162,
+        "coppia_max_nm": 250,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 250,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.750,
+        "rapporto_2": 2.050,
+        "rapporto_3": 1.350,
+        "rapporto_4": 0.980,
+        "rapporto_5": 0.780,
+        "rapporto_6": 0.650,
+        "rapporto_finale_differenziale": 4.100
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.18,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Kia EV6 RWD (229cv)": {
+    "peso_vuoto": 1910,
+    "cx": 0.28,
+    "area_frontale": 2.45,
+    "efficienza_motore": 0.90,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "E-GMP",
+      "motore": {
+        "codice_motore": "EM07",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 229,
+        "coppia_max_nm": 350,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 10.650
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  },
+  "Peugeot 508 1.5 BlueHDi (130cv)": {
+    "peso_vuoto": 1420,
+    "cx": 0.26,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "EMP2",
+      "motore": {
+        "codice_motore": "DV5RC",
+        "tipo": "Diesel, 4 cil Turbo",
+        "cilindrata_cc": 1499,
+        "potenza_max_cv": 130,
+        "coppia_max_nm": 300,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 210,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Automatico 8 marce (EAT8)",
+        "rapporto_1": 5.250,
+        "rapporto_2": 3.029,
+        "rapporto_3": 1.950,
+        "rapporto_4": 1.457,
+        "rapporto_5": 1.221,
+        "rapporto_6": 1.000,
+        "rapporto_7": 0.809,
+        "rapporto_8": 0.673,
+        "rapporto_finale_differenziale": 2.920
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.10,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 320,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Toyota RAV4 2.5 Hybrid FWD (218cv)": {
+    "peso_vuoto": 1590,
+    "cx": 0.32,
+    "area_frontale": 2.65,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "TNGA-K",
+      "motore": {
+        "codice_motore": "A25A-FXS",
+        "tipo": "Ibrido Full, 4 cil",
+        "cilindrata_cc": 2487,
+        "potenza_max_cv": 218,
+        "coppia_max_nm": 221,
+        "regime_coppia_max_rpm": 3600,
+        "bsfc_minimo_g_kwh": 212,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "e-CVT",
+        "rapporto_1": 2.683,
+        "rapporto_finale_differenziale": 3.605
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 200,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Audi Q5 40 TDI quattro (204cv)": {
+    "peso_vuoto": 1880,
+    "cx": 0.30,
+    "area_frontale": 2.65,
+    "efficienza_motore": 0.42,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "MLB Evo",
+      "motore": {
+        "codice_motore": "EA288 evo MHEV",
+        "tipo": "Diesel Mild Hybrid, 4 cil Turbo",
+        "cilindrata_cc": 1968,
+        "potenza_max_cv": 204,
+        "coppia_max_nm": 400,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 205,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "S tronic 7 marce",
+        "rapporto_1": 3.188,
+        "rapporto_2": 2.190,
+        "rapporto_3": 1.517,
+        "rapporto_4": 1.057,
+        "rapporto_5": 0.738,
+        "rapporto_6": 0.557,
+        "rapporto_7": 0.433,
+        "rapporto_finale_differenziale": 4.410
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.30,
+        "efficienza_totale_driveline": 0.85
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 450,
+        "climatizzatore_acceso_W": 1800
+      }
+    }
+  },
+  "Ford Mustang Mach-E RWD (269cv)": {
+    "peso_vuoto": 2069,
+    "cx": 0.30,
+    "area_frontale": 2.40,
+    "efficienza_motore": 0.90,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2024,
+      "piattaforma": "GE1",
+      "motore": {
+        "codice_motore": "E-Motor RWD",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 269,
+        "coppia_max_nm": 430,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 9.050
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1300
+      }
+    }
+  },
+
+  
+  "Jeep Renegade 1.5 T4 e-Hybrid (130cv)": {
+    "peso_vuoto": 1420,
+    "cx": 0.35,
+    "area_frontale": 2.50,
+    "efficienza_motore": 0.38,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "FCA Small Wide 4x4",
+      "motore": {
+        "codice_motore": "GSE T4",
+        "tipo": "Ibrido Mild 48V, 4 cilindri, Turbo",
+        "cilindrata_cc": 1469,
+        "potenza_max_cv": 130,
+        "coppia_max_nm": 240,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 235,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Automatico DCT 7 marce",
+        "rapporto_1": 3.750,
+        "rapporto_2": 2.300,
+        "rapporto_3": 1.550,
+        "rapporto_4": 1.150,
+        "rapporto_5": 0.850,
+        "rapporto_6": 0.650,
+        "rapporto_7": 0.520,
+        "rapporto_finale_differenziale": 4.120
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+
+  "Mercedes-Benz C 220 d MHEV (200cv)": {
+    "peso_vuoto": 1755,
+    "cx": 0.24,
+    "area_frontale": 2.19,
+    "efficienza_motore": 0.43,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "MRA II",
+      "motore": {
+        "codice_motore": "OM 654 M",
+        "tipo": "Diesel Mild Hybrid, 4 cilindri, Turbo",
+        "cilindrata_cc": 1992,
+        "potenza_max_cv": 200,
+        "coppia_max_nm": 440,
+        "regime_coppia_max_rpm": 1800,
+        "bsfc_minimo_g_kwh": 200,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Automatico 9 marce (9G-TRONIC)",
+        "rapporto_1": 5.354,
+        "rapporto_2": 3.243,
+        "rapporto_3": 2.252,
+        "rapporto_4": 1.636,
+        "rapporto_5": 1.211,
+        "rapporto_6": 1.000,
+        "rapporto_7": 0.865,
+        "rapporto_8": 0.717,
+        "rapporto_9": 0.601,
+        "rapporto_finale_differenziale": 2.650
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 450,
+        "climatizzatore_acceso_W": 1800
+      }
+    }
+  },
+  "Porsche Taycan 4S (530cv)": {
+    "peso_vuoto": 2215,
+    "cx": 0.22,
+    "area_frontale": 2.33,
+    "efficienza_motore": 0.92,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "J1",
+      "motore": {
+        "codice_motore": "E-Motor Dual",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 530,
+        "coppia_max_nm": 640,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Automatica 2 marce (posteriore)",
+        "rapporto_1": 15.500,
+        "rapporto_2": 8.050,
+        "rapporto_finale_differenziale": 1.0
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.22,
+        "efficienza_totale_driveline": 0.93
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 500,
+        "climatizzatore_acceso_W": 2000
+      }
+    }
+  },
+  "Volkswagen Polo 1.0 TSI (95cv)": {
+    "peso_vuoto": 1170,
+    "cx": 0.31,
+    "area_frontale": 2.10,
+    "efficienza_motore": 0.35,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "MQB A0",
+      "motore": {
+        "codice_motore": "EA211 evo",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 95,
+        "coppia_max_nm": 175,
+        "regime_coppia_max_rpm": 1600,
+        "bsfc_minimo_g_kwh": 250,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 5 marce",
+        "rapporto_1": 3.769,
+        "rapporto_2": 1.958,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.973,
+        "rapporto_5": 0.778,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.88,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Lexus UX 250h (184cv)": {
+    "peso_vuoto": 1615,
+    "cx": 0.33,
+    "area_frontale": 2.35,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "TNGA-C",
+      "motore": {
+        "codice_motore": "M20A-FXS",
+        "tipo": "Ibrido Full, 4 cilindri, Aspirato",
+        "cilindrata_cc": 1987,
+        "potenza_max_cv": 184,
+        "coppia_max_nm": 190,
+        "regime_coppia_max_rpm": 4400,
+        "bsfc_minimo_g_kwh": 218,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "e-CVT",
+        "rapporto_1": 2.683,
+        "rapporto_finale_differenziale": 3.190
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Audi A4 Avant 35 TDI (163cv)": {
+    "peso_vuoto": 1610,
+    "cx": 0.28,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.42,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "MLB Evo",
+      "motore": {
+        "codice_motore": "EA288 evo MHEV",
+        "tipo": "Diesel Mild Hybrid, 4 cilindri, Turbo",
+        "cilindrata_cc": 1968,
+        "potenza_max_cv": 163,
+        "coppia_max_nm": 380,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 205,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Automatico S tronic 7 marce",
+        "rapporto_1": 3.188,
+        "rapporto_2": 2.190,
+        "rapporto_3": 1.517,
+        "rapporto_4": 1.057,
+        "rapporto_5": 0.738,
+        "rapporto_6": 0.557,
+        "rapporto_7": 0.433,
+        "rapporto_finale_differenziale": 4.230
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 400,
+        "climatizzatore_acceso_W": 1650
+      }
+    }
+  },
+  "Mazda CX-30 2.0 e-Skyactiv X (186cv)": {
+    "peso_vuoto": 1450,
+    "cx": 0.32,
+    "area_frontale": 2.35,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "Skyactiv-Vehicle Architecture",
+      "motore": {
+        "codice_motore": "SPCCI",
+        "tipo": "Ibrido Mild, 4 cilindri, Compressore Volumetrico (SPCCI)",
+        "cilindrata_cc": 1998,
+        "potenza_max_cv": 186,
+        "coppia_max_nm": 240,
+        "regime_coppia_max_rpm": 4000,
+        "bsfc_minimo_g_kwh": 225,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.357,
+        "rapporto_2": 1.826,
+        "rapporto_3": 1.222,
+        "rapporto_4": 0.945,
+        "rapporto_5": 0.794,
+        "rapporto_6": 0.647,
+        "rapporto_finale_differenziale": 4.095
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.10,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Mini Cooper SE (184cv)": {
+    "peso_vuoto": 1440,
+    "cx": 0.30,
+    "area_frontale": 2.12,
+    "efficienza_motore": 0.88,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "UKL",
+      "motore": {
+        "codice_motore": "E-Motor BMW",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 184,
+        "coppia_max_nm": 270,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore monomarcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 8.950
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 1.95,
+        "efficienza_totale_driveline": 0.92
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 200,
+        "climatizzatore_acceso_W": 1100
+      }
+    }
+  },
+  "Skoda Karoq 1.5 TSI (150cv)": {
+    "peso_vuoto": 1395,
+    "cx": 0.32,
+    "area_frontale": 2.45,
+    "efficienza_motore": 0.38,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "MQB",
+      "motore": {
+        "codice_motore": "EA211 evo",
+        "tipo": "Benzina, 4 cilindri, Turbo",
+        "cilindrata_cc": 1498,
+        "potenza_max_cv": 150,
+        "coppia_max_nm": 250,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 235,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.769,
+        "rapporto_2": 1.958,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.973,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.645,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.10,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1550
+      }
+    }
+  },
+  "Suzuki S-Cross 1.4 Hybrid (129cv)": {
+    "peso_vuoto": 1285,
+    "cx": 0.33,
+    "area_frontale": 2.40,
+    "efficienza_motore": 0.37,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "Global C",
+      "motore": {
+        "codice_motore": "K14D",
+        "tipo": "Ibrido Mild 48V, 4 cilindri, Turbo",
+        "cilindrata_cc": 1373,
+        "potenza_max_cv": 129,
+        "coppia_max_nm": 235,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 235,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.615,
+        "rapporto_2": 1.954,
+        "rapporto_3": 1.275,
+        "rapporto_4": 0.942,
+        "rapporto_5": 0.794,
+        "rapporto_6": 0.675,
+        "rapporto_finale_differenziale": 3.944
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.10,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 220,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+
+  
+  "Audi Q2 30 TFSI (110cv)": {
+    "peso_vuoto": 1225,
+    "cx": 0.31,
+    "area_frontale": 2.25,
+    "efficienza_motore": 0.35,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "MQB",
+      "motore": {
+        "codice_motore": "EA211 evo",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 999,
+        "potenza_max_cv": 110,
+        "coppia_max_nm": 200,
+        "regime_coppia_max_rpm": 2000,
+        "bsfc_minimo_g_kwh": 245,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.769,
+        "rapporto_2": 1.958,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.973,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.645,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+
+  "Citroen C4 1.2 PureTech (130cv)": {
+    "peso_vuoto": 1247,
+    "cx": 0.29,
+    "area_frontale": 2.25,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "CMP",
+      "motore": {
+        "codice_motore": "EB2ADTS",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 130,
+        "coppia_max_nm": 230,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.416,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.972,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.642,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.08,
+        "efficienza_totale_driveline": 0.87
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1500
+      }
+    }
+  },
+  "Fiat 500X 1.3 MultiJet (95cv)": {
+    "peso_vuoto": 1320,
+    "cx": 0.34,
+    "area_frontale": 2.45,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2022,
+      "piattaforma": "FCA Small Wide",
+      "motore": {
+        "codice_motore": "MultiJet II",
+        "tipo": "Diesel, 4 cilindri, Turbo",
+        "cilindrata_cc": 1248,
+        "potenza_max_cv": 95,
+        "coppia_max_nm": 200,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 215,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Manuale 5 marce",
+        "rapporto_1": 3.909,
+        "rapporto_2": 2.158,
+        "rapporto_3": 1.345,
+        "rapporto_4": 0.974,
+        "rapporto_5": 0.766,
+        "rapporto_finale_differenziale": 3.733
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.10,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 300,
+        "climatizzatore_acceso_W": 1400
+      }
+    }
+  },
+  "Land Rover Range Rover Evoque D165 (163cv)": {
+    "peso_vuoto": 1815,
+    "cx": 0.33,
+    "area_frontale": 2.65,
+    "efficienza_motore": 0.41,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "PTA",
+      "motore": {
+        "codice_motore": "Ingenium D165",
+        "tipo": "Diesel Mild Hybrid, 4 cilindri, Turbo",
+        "cilindrata_cc": 1997,
+        "potenza_max_cv": 163,
+        "coppia_max_nm": 380,
+        "regime_coppia_max_rpm": 1500,
+        "bsfc_minimo_g_kwh": 208,
+        "minimo_motore_rpm": 850
+      },
+      "trasmissione": {
+        "tipo": "Automatico 9 marce",
+        "rapporto_1": 4.713,
+        "rapporto_2": 2.842,
+        "rapporto_3": 1.909,
+        "rapporto_4": 1.382,
+        "rapporto_5": 1.000,
+        "rapporto_6": 0.808,
+        "rapporto_7": 0.699,
+        "rapporto_8": 0.580,
+        "rapporto_9": 0.480,
+        "rapporto_finale_differenziale": 3.450
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.85
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 400,
+        "climatizzatore_acceso_W": 1700
+      }
+    }
+  },
+  "Mazda CX-5 2.2 Skyactiv-D (150cv)": {
+    "peso_vuoto": 1530,
+    "cx": 0.33,
+    "area_frontale": 2.58,
+    "efficienza_motore": 0.42,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "Skyactiv",
+      "motore": {
+        "codice_motore": "SH-VPTS",
+        "tipo": "Diesel, 4 cilindri, Biturbo",
+        "cilindrata_cc": 2191,
+        "potenza_max_cv": 150,
+        "coppia_max_nm": 380,
+        "regime_coppia_max_rpm": 1800,
+        "bsfc_minimo_g_kwh": 202,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.357,
+        "rapporto_2": 1.826,
+        "rapporto_3": 1.121,
+        "rapporto_4": 0.804,
+        "rapporto_5": 0.647,
+        "rapporto_6": 0.540,
+        "rapporto_finale_differenziale": 4.090
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.20,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 350,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Mercedes-Benz GLC 220 d 4MATIC (197cv)": {
+    "peso_vuoto": 1925,
+    "cx": 0.29,
+    "area_frontale": 2.55,
+    "efficienza_motore": 0.43,
+    "potere_calorifico_carburante": 11.9,
+    "densita_carburante": 835,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "MRA II",
+      "motore": {
+        "codice_motore": "OM 654 M",
+        "tipo": "Diesel Mild Hybrid, 4 cilindri, Turbo",
+        "cilindrata_cc": 1992,
+        "potenza_max_cv": 197,
+        "coppia_max_nm": 440,
+        "regime_coppia_max_rpm": 1800,
+        "bsfc_minimo_g_kwh": 200,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Automatico 9 marce (9G-TRONIC)",
+        "rapporto_1": 5.354,
+        "rapporto_2": 3.243,
+        "rapporto_3": 2.252,
+        "rapporto_4": 1.636,
+        "rapporto_5": 1.211,
+        "rapporto_6": 1.000,
+        "rapporto_7": 0.865,
+        "rapporto_8": 0.717,
+        "rapporto_9": 0.601,
+        "rapporto_finale_differenziale": 2.650
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.85
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 450,
+        "climatizzatore_acceso_W": 1800
+      }
+    }
+  },
+  "Nissan X-Trail e-Power e-4ORCE (213cv)": {
+    "peso_vuoto": 1880,
+    "cx": 0.32,
+    "area_frontale": 2.60,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "CMF-C",
+      "motore": {
+        "codice_motore": "KR15DDT",
+        "tipo": "Ibrido Serie (AWD), 3 cilindri, Turbo",
+        "cilindrata_cc": 1497,
+        "potenza_max_cv": 213,
+        "coppia_max_nm": 330,
+        "regime_coppia_max_rpm": 2400,
+        "bsfc_minimo_g_kwh": 220,
+        "minimo_motore_rpm": 1000
+      },
+      "trasmissione": {
+        "tipo": "Riduttore elettrico (Dual Motor)",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 8.500
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.89
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 200,
+        "climatizzatore_acceso_W": 1600
+      }
+    }
+  },
+  "Opel Astra 1.2 Turbo (130cv)": {
+    "peso_vuoto": 1271,
+    "cx": 0.27,
+    "area_frontale": 2.20,
+    "efficienza_motore": 0.36,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "EMP2",
+      "motore": {
+        "codice_motore": "EB2ADTS",
+        "tipo": "Benzina, 3 cilindri, Turbo",
+        "cilindrata_cc": 1199,
+        "potenza_max_cv": 130,
+        "coppia_max_nm": 230,
+        "regime_coppia_max_rpm": 1750,
+        "bsfc_minimo_g_kwh": 240,
+        "minimo_motore_rpm": 800
+      },
+      "trasmissione": {
+        "tipo": "Manuale 6 marce",
+        "rapporto_1": 3.416,
+        "rapporto_2": 1.950,
+        "rapporto_3": 1.281,
+        "rapporto_4": 0.972,
+        "rapporto_5": 0.778,
+        "rapporto_6": 0.642,
+        "rapporto_finale_differenziale": 4.111
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.05,
+        "efficienza_totale_driveline": 0.88
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 280,
+        "climatizzatore_acceso_W": 1450
+      }
+    }
+  },
+  "Renault Arkana E-Tech Full Hybrid (145cv)": {
+    "peso_vuoto": 1435,
+    "cx": 0.30,
+    "area_frontale": 2.35,
+    "efficienza_motore": 0.40,
+    "potere_calorifico_carburante": 12.2,
+    "densita_carburante": 745,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "CMF-B",
+      "motore": {
+        "codice_motore": "H4M",
+        "tipo": "Ibrido Full, 4 cilindri, Aspirato",
+        "cilindrata_cc": 1598,
+        "potenza_max_cv": 145,
+        "coppia_max_nm": 148,
+        "regime_coppia_max_rpm": 3200,
+        "bsfc_minimo_g_kwh": 220,
+        "minimo_motore_rpm": 900
+      },
+      "trasmissione": {
+        "tipo": "Multimode E-Tech (4+2 marce)",
+        "rapporto_1": 3.200,
+        "rapporto_2": 1.800,
+        "rapporto_3": 1.100,
+        "rapporto_4": 0.800,
+        "rapporto_finale_differenziale": 3.800
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.15,
+        "efficienza_totale_driveline": 0.86
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 180,
+        "climatizzatore_acceso_W": 1350
+      }
+    }
+  },
+  "Toyota bZ4X FWD (204cv)": {
+    "peso_vuoto": 1895,
+    "cx": 0.28,
+    "area_frontale": 2.40,
+    "efficienza_motore": 0.90,
+    "potere_calorifico_carburante": 0,
+    "densita_carburante": 0,
+    "specifiche_avanzate": {
+      "anno_produzione": 2023,
+      "piattaforma": "e-TNGA",
+      "motore": {
+        "codice_motore": "1XM",
+        "tipo": "Elettrico BEV",
+        "cilindrata_cc": 0,
+        "potenza_max_cv": 204,
+        "coppia_max_nm": 266,
+        "regime_coppia_max_rpm": 0,
+        "bsfc_minimo_g_kwh": 0,
+        "minimo_motore_rpm": 0
+      },
+      "trasmissione": {
+        "tipo": "Riduttore 1 marcia",
+        "rapporto_1": 1.0,
+        "rapporto_finale_differenziale": 10.782
+      },
+      "resistenza_meccanica": {
+        "circonferenza_rotolamento_metri": 2.25,
+        "efficienza_totale_driveline": 0.94
+      },
+      "assorbimenti_ausiliari_stimati_watt": {
+        "alternatore_base_W": 250,
+        "climatizzatore_acceso_W": 1200
+      }
+    }
+  }
+}

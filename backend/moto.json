@@ -1,0 +1,1266 @@
+{
+    "Yamaha Tracer 9 GT": {
+      "peso_vuoto": 215,
+      "cx": 0.55,
+      "area_frontale": 0.85,
+      "efficienza_motore": 0.35,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "CP3",
+        "motore": {
+          "codice_motore": "CP3",
+          "tipo": "3 cilindri in linea, 4 tempi, DOHC",
+          "cilindrata_cc": 890,
+          "potenza_max_cv": 119,
+          "coppia_max_nm": 93,
+          "regime_coppia_max_rpm": 7000,
+          "bsfc_minimo_g_kwh": 245,
+          "minimo_motore_rpm": 1200
+        },
+        "trasmissione": {
+          "tipo": "6 marce con quickshifter",
+          "rapporto_1": 2.846,
+          "rapporto_2": 2.000,
+          "rapporto_3": 1.600,
+          "rapporto_4": 1.300,
+          "rapporto_5": 1.100,
+          "rapporto_6": 0.960,
+          "rapporto_finale_differenziale": 3.000
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.05,
+          "efficienza_totale_driveline": 0.91
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 120,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Honda Africa Twin CRF1100L": {
+      "peso_vuoto": 230,
+      "cx": 0.52,
+      "area_frontale": 0.92,
+      "efficienza_motore": 0.36,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "CRF1100",
+        "motore": {
+          "codice_motore": "SD11E",
+          "tipo": "2 cilindri paralleli, 4 tempi, Unicam",
+          "cilindrata_cc": 1084,
+          "potenza_max_cv": 102,
+          "coppia_max_nm": 105,
+          "regime_coppia_max_rpm": 6250,
+          "bsfc_minimo_g_kwh": 238,
+          "minimo_motore_rpm": 1000
+        },
+        "trasmissione": {
+          "tipo": "6 marce + DCT opzionale",
+          "rapporto_1": 2.888,
+          "rapporto_2": 2.117,
+          "rapporto_3": 1.647,
+          "rapporto_4": 1.368,
+          "rapporto_5": 1.173,
+          "rapporto_6": 1.038,
+          "rapporto_finale_differenziale": 2.812
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.16,
+          "efficienza_totale_driveline": 0.92
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 140,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "BMW R 1250 GS Adventure": {
+      "peso_vuoto": 268,
+      "cx": 0.54,
+      "area_frontale": 0.95,
+      "efficienza_motore": 0.37,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "GS Boxer",
+        "motore": {
+          "codice_motore": "ShiftCam",
+          "tipo": "2 cilindri boxer, 4 tempi, DOHC",
+          "cilindrata_cc": 1254,
+          "potenza_max_cv": 136,
+          "coppia_max_nm": 143,
+          "regime_coppia_max_rpm": 6250,
+          "bsfc_minimo_g_kwh": 225,
+          "minimo_motore_rpm": 1100
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.091,
+          "rapporto_2": 2.154,
+          "rapporto_3": 1.688,
+          "rapporto_4": 1.375,
+          "rapporto_5": 1.176,
+          "rapporto_6": 1.048,
+          "rapporto_finale_differenziale": 2.750
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.20,
+          "efficienza_totale_driveline": 0.90
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 160,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Ducati Monster SP": {
+      "peso_vuoto": 188,
+      "cx": 0.48,
+      "area_frontale": 0.75,
+      "efficienza_motore": 0.38,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "Monster Testastretta",
+        "motore": {
+          "codice_motore": "Testastretta 11°",
+          "tipo": "2 cilindri a L, 4 tempi, DOHC",
+          "cilindrata_cc": 937,
+          "potenza_max_cv": 111,
+          "coppia_max_nm": 93,
+          "regime_coppia_max_rpm": 6500,
+          "bsfc_minimo_g_kwh": 230,
+          "minimo_motore_rpm": 1250
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 2.714,
+          "rapporto_2": 2.000,
+          "rapporto_3": 1.600,
+          "rapporto_4": 1.350,
+          "rapporto_5": 1.166,
+          "rapporto_6": 1.041,
+          "rapporto_finale_differenziale": 2.800
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.00,
+          "efficienza_totale_driveline": 0.93
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 130,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Kawasaki Z900": {
+      "peso_vuoto": 210,
+      "cx": 0.50,
+      "area_frontale": 0.80,
+      "efficienza_motore": 0.35,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "Z900",
+        "motore": {
+          "codice_motore": "Z900DE",
+          "tipo": "4 cilindri in linea, 4 tempi, DOHC",
+          "cilindrata_cc": 948,
+          "potenza_max_cv": 125,
+          "coppia_max_nm": 98,
+          "regime_coppia_max_rpm": 7700,
+          "bsfc_minimo_g_kwh": 240,
+          "minimo_motore_rpm": 1100
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 2.857,
+          "rapporto_2": 2.058,
+          "rapporto_3": 1.636,
+          "rapporto_4": 1.380,
+          "rapporto_5": 1.190,
+          "rapporto_6": 1.080,
+          "rapporto_finale_differenziale": 2.900
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.03,
+          "efficienza_totale_driveline": 0.91
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 125,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Benelli TRK 502": {
+      "peso_vuoto": 210,
+      "cx": 0.56,
+      "area_frontale": 0.88,
+      "efficienza_motore": 0.33,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "TRK",
+        "motore": {
+          "codice_motore": "BN302",
+          "tipo": "2 cilindri paralleli, 4 tempi, DOHC",
+          "cilindrata_cc": 500,
+          "potenza_max_cv": 47,
+          "coppia_max_nm": 46,
+          "regime_coppia_max_rpm": 6000,
+          "bsfc_minimo_g_kwh": 255,
+          "minimo_motore_rpm": 1300
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.090,
+          "rapporto_2": 2.250,
+          "rapporto_3": 1.750,
+          "rapporto_4": 1.450,
+          "rapporto_5": 1.250,
+          "rapporto_6": 1.100,
+          "rapporto_finale_differenziale": 3.200
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.12,
+          "efficienza_totale_driveline": 0.88
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 110,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Aprilia RS 660": {
+      "peso_vuoto": 169,
+      "cx": 0.45,
+      "area_frontale": 0.72,
+      "efficienza_motore": 0.37,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "RS660",
+        "motore": {
+          "codice_motore": "660cc Twin",
+          "tipo": "2 cilindri paralleli, 4 tempi, DOHC",
+          "cilindrata_cc": 659,
+          "potenza_max_cv": 100,
+          "coppia_max_nm": 67,
+          "regime_coppia_max_rpm": 8500,
+          "bsfc_minimo_g_kwh": 235,
+          "minimo_motore_rpm": 1200
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.000,
+          "rapporto_2": 2.142,
+          "rapporto_3": 1.750,
+          "rapporto_4": 1.500,
+          "rapporto_5": 1.318,
+          "rapporto_6": 1.190,
+          "rapporto_finale_differenziale": 2.850
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.01,
+          "efficienza_totale_driveline": 0.92
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 115,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Moto Guzzi V7 Stone": {
+      "peso_vuoto": 185,
+      "cx": 0.51,
+      "area_frontale": 0.78,
+      "efficienza_motore": 0.34,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "V7 III",
+        "motore": {
+          "codice_motore": "850cc V-Twin",
+          "tipo": "2 cilindri a V trasversale, 4 tempi, pushrod",
+          "cilindrata_cc": 853,
+          "potenza_max_cv": 65,
+          "coppia_max_nm": 73,
+          "regime_coppia_max_rpm": 5000,
+          "bsfc_minimo_g_kwh": 250,
+          "minimo_motore_rpm": 1150
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.250,
+          "rapporto_2": 2.250,
+          "rapporto_3": 1.750,
+          "rapporto_4": 1.450,
+          "rapporto_5": 1.250,
+          "rapporto_6": 1.050,
+          "rapporto_finale_differenziale": 2.750
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.08,
+          "efficienza_totale_driveline": 0.89
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 135,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Yamaha MT-07": {
+      "peso_vuoto": 184,
+      "cx": 0.49,
+      "area_frontale": 0.77,
+      "efficienza_motore": 0.36,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "MT07",
+        "motore": {
+          "codice_motore": "CP2",
+          "tipo": "2 cilindri paralleli, 4 tempi, DOHC",
+          "cilindrata_cc": 689,
+          "potenza_max_cv": 73,
+          "coppia_max_nm": 67,
+          "regime_coppia_max_rpm": 6500,
+          "bsfc_minimo_g_kwh": 242,
+          "minimo_motore_rpm": 1100
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 2.900,
+          "rapporto_2": 2.150,
+          "rapporto_3": 1.700,
+          "rapporto_4": 1.400,
+          "rapporto_5": 1.200,
+          "rapporto_6": 1.000,
+          "rapporto_finale_differenziale": 2.950
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.04,
+          "efficienza_totale_driveline": 0.91
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 105,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Honda CB650R": {
+      "peso_vuoto": 203,
+      "cx": 0.50,
+      "area_frontale": 0.79,
+      "efficienza_motore": 0.35,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "CB650",
+        "motore": {
+          "codice_motore": "CB650R",
+          "tipo": "4 cilindri in linea, 4 tempi, DOHC",
+          "cilindrata_cc": 649,
+          "potenza_max_cv": 95,
+          "coppia_max_nm": 64,
+          "regime_coppia_max_rpm": 8500,
+          "bsfc_minimo_g_kwh": 238,
+          "minimo_motore_rpm": 1200
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 2.846,
+          "rapporto_2": 2.100,
+          "rapporto_3": 1.700,
+          "rapporto_4": 1.450,
+          "rapporto_5": 1.300,
+          "rapporto_6": 1.150,
+          "rapporto_finale_differenziale": 2.900
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.05,
+          "efficienza_totale_driveline": 0.90
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 125,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Suzuki V-Strom 650": {
+      "peso_vuoto": 213,
+      "cx": 0.53,
+      "area_frontale": 0.86,
+      "efficienza_motore": 0.35,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "V-Strom",
+        "motore": {
+          "codice_motore": "V2 645cc",
+          "tipo": "2 cilindri a V, 4 tempi, DOHC",
+          "cilindrata_cc": 645,
+          "potenza_max_cv": 71,
+          "coppia_max_nm": 62,
+          "regime_coppia_max_rpm": 6300,
+          "bsfc_minimo_g_kwh": 248,
+          "minimo_motore_rpm": 1200
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.000,
+          "rapporto_2": 2.200,
+          "rapporto_3": 1.750,
+          "rapporto_4": 1.450,
+          "rapporto_5": 1.250,
+          "rapporto_6": 1.050,
+          "rapporto_finale_differenziale": 3.000
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.10,
+          "efficienza_totale_driveline": 0.89
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 120,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "KTM 690 Duke R": {
+      "peso_vuoto": 149,
+      "cx": 0.47,
+      "area_frontale": 0.74,
+      "efficienza_motore": 0.36,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "690 LC4",
+        "motore": {
+          "codice_motore": "LC4",
+          "tipo": "1 cilindro, 4 tempi, DOHC",
+          "cilindrata_cc": 693,
+          "potenza_max_cv": 74,
+          "coppia_max_nm": 73,
+          "regime_coppia_max_rpm": 6000,
+          "bsfc_minimo_g_kwh": 252,
+          "minimo_motore_rpm": 1300
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.125,
+          "rapporto_2": 2.250,
+          "rapporto_3": 1.800,
+          "rapporto_4": 1.500,
+          "rapporto_5": 1.300,
+          "rapporto_6": 1.150,
+          "rapporto_finale_differenziale": 2.750
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.00,
+          "efficienza_totale_driveline": 0.92
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 100,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Triumph Street Triple RS": {
+      "peso_vuoto": 166,
+      "cx": 0.46,
+      "area_frontale": 0.73,
+      "efficienza_motore": 0.37,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "Street Triple",
+        "motore": {
+          "codice_motore": "765cc Triple",
+          "tipo": "3 cilindri in linea, 4 tempi, DOHC",
+          "cilindrata_cc": 765,
+          "potenza_max_cv": 130,
+          "coppia_max_nm": 80,
+          "regime_coppia_max_rpm": 9350,
+          "bsfc_minimo_g_kwh": 228,
+          "minimo_motore_rpm": 1150
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 2.800,
+          "rapporto_2": 2.050,
+          "rapporto_3": 1.650,
+          "rapporto_4": 1.400,
+          "rapporto_5": 1.250,
+          "rapporto_6": 1.100,
+          "rapporto_finale_differenziale": 2.900
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.02,
+          "efficienza_totale_driveline": 0.93
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 135,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Fantic Caballero 500": {
+      "peso_vuoto": 150,
+      "cx": 0.50,
+      "area_frontale": 0.79,
+      "efficienza_motore": 0.34,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "Caballero",
+        "motore": {
+          "codice_motore": "DOHC 449cc",
+          "tipo": "1 cilindro, 4 tempi, DOHC",
+          "cilindrata_cc": 449,
+          "potenza_max_cv": 40,
+          "coppia_max_nm": 43,
+          "regime_coppia_max_rpm": 6500,
+          "bsfc_minimo_g_kwh": 258,
+          "minimo_motore_rpm": 1400
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.250,
+          "rapporto_2": 2.300,
+          "rapporto_3": 1.850,
+          "rapporto_4": 1.550,
+          "rapporto_5": 1.300,
+          "rapporto_6": 1.150,
+          "rapporto_finale_differenziale": 3.100
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.07,
+          "efficienza_totale_driveline": 0.88
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 95,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Royal Enfield Interceptor 650": {
+      "peso_vuoto": 212,
+      "cx": 0.52,
+      "area_frontale": 0.81,
+      "efficienza_motore": 0.33,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "Interceptor",
+        "motore": {
+          "codice_motore": "648cc Twin",
+          "tipo": "2 cilindri paralleli, 4 tempi, SOHC",
+          "cilindrata_cc": 648,
+          "potenza_max_cv": 47,
+          "coppia_max_nm": 52,
+          "regime_coppia_max_rpm": 5150,
+          "bsfc_minimo_g_kwh": 260,
+          "minimo_motore_rpm": 1200
+        },
+        "trasmissione": {
+          "tipo": "6 marce",
+          "rapporto_1": 3.000,
+          "rapporto_2": 2.200,
+          "rapporto_3": 1.750,
+          "rapporto_4": 1.450,
+          "rapporto_5": 1.250,
+          "rapporto_6": 1.050,
+          "rapporto_finale_differenziale": 3.150
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.09,
+          "efficienza_totale_driveline": 0.87
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 110,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+
+    "LiveWire S2 Mulholland": {
+      "peso_vuoto": 201,
+      "cx": 0.48,
+      "area_frontale": 0.76,
+      "efficienza_motore": 0.91,
+      "potere_calorifico_carburante": null,
+      "densita_carburante": null,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "Arrow",
+        "motore": {
+          "codice_motore": "S2 Arrow",
+          "tipo": "Elettrico a magneti permanenti, raffreddato ad aria",
+          "potenza_max_cv": 84,
+          "coppia_max_nm": 263,
+          "bsfc_minimo_g_kwh": null,
+          "minimo_motore_rpm": 0,
+          "batteria_kWh": 10.5,
+          "autonomia_km_wltp": 140
+        },
+        "trasmissione": {
+          "tipo": "Cinghia dentata",
+          "rapporto_finale_differenziale": 4.200
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.05,
+          "efficienza_totale_driveline": 0.94
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 0,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Zero SR/S": {
+      "peso_vuoto": 235,
+      "cx": 0.45,
+      "area_frontale": 0.72,
+      "efficienza_motore": 0.92,
+      "potere_calorifico_carburante": null,
+      "densita_carburante": null,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "ZF 14.4",
+        "motore": {
+          "codice_motore": "Z-Force 75-10",
+          "tipo": "Elettrico brushless, raffreddato a liquido",
+          "potenza_max_cv": 110,
+          "coppia_max_nm": 190,
+          "bsfc_minimo_g_kwh": null,
+          "minimo_motore_rpm": 0,
+          "batteria_kWh": 14.4,
+          "autonomia_km_wltp": 220
+        },
+        "trasmissione": {
+          "tipo": "Cinghia dentata",
+          "rapporto_finale_differenziale": 3.800
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.03,
+          "efficienza_totale_driveline": 0.95
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 0,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Energica Ego+": {
+      "peso_vuoto": 260,
+      "cx": 0.44,
+      "area_frontale": 0.71,
+      "efficienza_motore": 0.90,
+      "potere_calorifico_carburante": null,
+      "densita_carburante": null,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "EMCE",
+        "motore": {
+          "codice_motore": "PMSM",
+          "tipo": "Elettrico IPM, raffreddato a liquido ad olio",
+          "potenza_max_cv": 167,
+          "coppia_max_nm": 215,
+          "bsfc_minimo_g_kwh": null,
+          "minimo_motore_rpm": 0,
+          "batteria_kWh": 21.5,
+          "autonomia_km_wltp": 210
+        },
+        "trasmissione": {
+          "tipo": "Cinghia dentata",
+          "rapporto_finale_differenziale": 3.500
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.06,
+          "efficienza_totale_driveline": 0.93
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 0,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+
+
+    "Honda SH 350i": {
+      "peso_vuoto": 169,
+      "cx": 0.62,
+      "area_frontale": 0.68,
+      "efficienza_motore": 0.32,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "SH",
+        "motore": {
+          "codice_motore": "eSP+",
+          "tipo": "1 cilindro, 4 tempi, SOHC",
+          "cilindrata_cc": 330,
+          "potenza_max_cv": 29,
+          "coppia_max_nm": 32,
+          "regime_coppia_max_rpm": 5250,
+          "bsfc_minimo_g_kwh": 265,
+          "minimo_motore_rpm": 1600
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_1": 2.800,
+          "rapporto_finale_differenziale": 4.200
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.80,
+          "efficienza_totale_driveline": 0.85
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 80,
+          "climatizzatore_acceso_W": 0
+        }
+      }
+    },
+    "Yamaha XMAX 300": {
+      "peso_vuoto": 179,
+      "cx": 0.60,
+      "area_frontale": 0.70,
+      "efficienza_motore": 0.33,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2023,
+        "piattaforma": "XMAX",
+        "motore": {
+          "codice_motore": "Blue Core",
+          "tipo": "1 cilindro, 4 tempi, SOHC",
+          "cilindrata_cc": 292,
+          "potenza_max_cv": 27,
+          "coppia_max_nm": 29,
+          "regime_coppia_max_rpm": 5250,
+          "bsfc_minimo_g_kwh": 260,
+          "minimo_motore_rpm": 1500
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_1": 2.900,
+          "rapporto_finale_differenziale": 4.000
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.85,
+          "efficienza_totale_driveline": 0.86
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 85,
+          "climatizzatore_acceso_W": 0
+        }
+        }
+        },
+    "Piaggio Beverly 300": {
+      "peso_vuoto": 182,
+        "cx": 0.58,
+        "area_frontale": 0.72,
+        "efficienza_motore": 0.31,
+        "potere_calorifico_carburante": 12.2,
+        "densita_carburante": 745,
+        "specifiche_avanzate": {
+          "anno_produzione": 2023,
+          "piattaforma": "Beverly",
+          "motore": {
+            "codice_motore": "i-get",
+            "tipo": "1 cilindro, 4 tempi, SOHC",
+            "cilindrata_cc": 278,
+            "potenza_max_cv": 24,
+            "coppia_max_nm": 27,
+            "regime_coppia_max_rpm": 5250,
+            "bsfc_minimo_g_kwh": 270,
+            "minimo_motore_rpm": 1500
+          },
+          "trasmissione": {
+            "tipo": "CVT",
+            "rapporto_1": 2.850,
+            "rapporto_finale_differenziale": 4.100
+          },
+          "resistenza_meccanica": {
+            "circonferenza_rotolamento_metri": 1.82,
+            "efficienza_totale_driveline": 0.84
+          },
+          "assorbimenti_ausiliari_stimati_watt": {
+            "alternatore_base_W": 75,
+            "climatizzatore_acceso_W": 0
+          }
+        }
+    },
+
+    "VOGE_SR16_Air_125": {
+      "peso_vuoto": 132,
+      "cx": 0.65,
+      "area_frontale": 0.62,
+      "efficienza_motore": 0.31,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2026,
+        "piattaforma": "Ruota Alta",
+        "motore": {
+          "codice_motore": "1P54QMI",
+          "tipo": "Monocilindrico, 4 tempi, raffreddato ad aria, SOHC",
+          "cilindrata_cc": 124.8,
+          "potenza_max_cv": 10.6,
+          "coppia_max_nm": 10.5,
+          "regime_coppia_max_rpm": 6000,
+          "bsfc_minimo_g_kwh": 275,
+          "minimo_motore_rpm": 1700
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_finale_differenziale": 4.800
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.85,
+          "efficienza_totale_driveline": 0.84
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 70,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "Scooter ruota alta (16/14 pollici) con ABS, TCS, pianale piatto e bauletto posteriore di serie [citation:6][citation:8]"
+      }
+    },
+    "VOGE_SR125_GTS": {
+      "peso_vuoto": 138,
+      "cx": 0.63,
+      "area_frontale": 0.64,
+      "efficienza_motore": 0.32,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2026,
+        "piattaforma": "GT Urbano",
+        "motore": {
+          "codice_motore": "1P57QMJ",
+          "tipo": "Monocilindrico, 4 tempi, raffreddato a liquido, DOHC",
+          "cilindrata_cc": 124.8,
+          "potenza_max_cv": 12.3,
+          "coppia_max_nm": 12.0,
+          "regime_coppia_max_rpm": 6500,
+          "bsfc_minimo_g_kwh": 265,
+          "minimo_motore_rpm": 1600
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_finale_differenziale": 4.600
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.82,
+          "efficienza_totale_driveline": 0.85
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 80,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "GT urbano con sella e manopole riscaldate, dash cam, navigatore TFT e vano sottosella per due caschi [citation:5][citation:6]"
+      }
+    },
+    "VOGE_SR1_125": {
+      "peso_vuoto": 133,
+      "cx": 0.66,
+      "area_frontale": 0.63,
+      "efficienza_motore": 0.31,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Entry Level",
+        "motore": {
+          "codice_motore": "152QMI-4",
+          "tipo": "Monocilindrico, 4 tempi, raffreddato a liquido, 4 valvole",
+          "cilindrata_cc": 124.9,
+          "potenza_max_cv": 11.6,
+          "coppia_max_nm": 11.0,
+          "regime_coppia_max_rpm": 6500,
+          "bsfc_minimo_g_kwh": 270,
+          "minimo_motore_rpm": 1650
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_finale_differenziale": 4.700
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.80,
+          "efficienza_totale_driveline": 0.84
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 75,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "Scooter compatto con dash cam integrata e avviamento keyless [citation:4]"
+      }
+    },
+    "VOGE_SR2_ADV_150": {
+      "peso_vuoto": 145,
+      "cx": 0.64,
+      "area_frontale": 0.66,
+      "efficienza_motore": 0.32,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Adventure Urban",
+        "motore": {
+          "codice_motore": "1P63MJ",
+          "tipo": "Monocilindrico, 4 tempi, raffreddato a liquido, SOHC",
+          "cilindrata_cc": 149.3,
+          "potenza_max_cv": 15.0,
+          "coppia_max_nm": 14.0,
+          "regime_coppia_max_rpm": 6000,
+          "bsfc_minimo_g_kwh": 268,
+          "minimo_motore_rpm": 1600
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_finale_differenziale": 4.500
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.78,
+          "efficienza_totale_driveline": 0.85
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 80,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "Versione adventure con pneumatici semi-tassellati, paramani e parabrezza regolabile [citation:4]"
+      }
+    },
+    "VOGE_SR3_250": {
+      "peso_vuoto": 168,
+      "cx": 0.62,
+      "area_frontale": 0.68,
+      "efficienza_motore": 0.33,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Maxi Sport",
+        "motore": {
+          "codice_motore": "1P73MM",
+          "tipo": "Monocilindrico, 4 tempi, raffreddato a liquido, DOHC",
+          "cilindrata_cc": 244.3,
+          "potenza_max_cv": 25.5,
+          "coppia_max_nm": 23.0,
+          "regime_coppia_max_rpm": 5500,
+          "bsfc_minimo_g_kwh": 258,
+          "minimo_motore_rpm": 1500
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_finale_differenziale": 4.200
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.85,
+          "efficienza_totale_driveline": 0.86
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 90,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "Maxiscooter sportivo con prestazioni da oltre 125 km/h di velocità massima [citation:4]"
+      }
+    },
+    "VOGE_SR4_400": {
+      "peso_vuoto": 195,
+      "cx": 0.61,
+      "area_frontale": 0.70,
+      "efficienza_motore": 0.34,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Gran Turismo",
+        "motore": {
+          "codice_motore": "1P78MP",
+          "tipo": "Monocilindrico, 4 tempi, raffreddato a liquido, DOHC",
+          "cilindrata_cc": 350,
+          "potenza_max_cv": 33.5,
+          "coppia_max_nm": 35.0,
+          "regime_coppia_max_rpm": 6000,
+          "bsfc_minimo_g_kwh": 250,
+          "minimo_motore_rpm": 1450
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_finale_differenziale": 3.900
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.90,
+          "efficienza_totale_driveline": 0.87
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 110,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "GT con sottosella da 41.5 litri, triplo disco freno e controllo di trazione [citation:4]"
+      }
+    },
+    "CFMOTO_675SR_R": {
+      "peso_vuoto": 175,
+      "cx": 0.58,
+      "area_frontale": 0.70,
+      "efficienza_motore": 0.35,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Sportiva 3 cilindri",
+        "motore": {
+          "codice_motore": "675cc Triple",
+          "tipo": "3 cilindri in linea, 4 tempi, DOHC",
+          "cilindrata_cc": 675,
+          "potenza_max_cv": 95,
+          "coppia_max_nm": 70,
+          "regime_coppia_max_rpm": 7000,
+          "bsfc_minimo_g_kwh": 240,
+          "minimo_motore_rpm": 1200
+        },
+        "trasmissione": {
+          "tipo": "6 marce con quickshifter",
+          "rapporto_1": 2.900,
+          "rapporto_2": 2.100,
+          "rapporto_3": 1.700,
+          "rapporto_4": 1.450,
+          "rapporto_5": 1.250,
+          "rapporto_6": 1.100,
+          "rapporto_finale_differenziale": 2.850
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 2.00,
+          "efficienza_totale_driveline": 0.91
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 130,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "Prima sportiva CFMOTO con motore 3 cilindri, top speed 220 km/h [citation:2]"
+      }
+    },
+    "Standard_50cc_4T_Euro5": {
+      "peso_vuoto": 95,
+      "cx": 0.70,
+      "area_frontale": 0.55,
+      "efficienza_motore": 0.28,
+      "potere_calorifico_carburante": 12.2,
+      "densita_carburante": 745,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Ciclo 50",
+        "motore": {
+          "codice_motore": "Standard 50",
+          "tipo": "Monocilindrico, 4 tempi, raffreddato ad aria",
+          "cilindrata_cc": 49.4,
+          "potenza_max_cv": 4.5,
+          "coppia_max_nm": 3.5,
+          "regime_coppia_max_rpm": 6500,
+          "bsfc_minimo_g_kwh": 290,
+          "minimo_motore_rpm": 1900
+        },
+        "trasmissione": {
+          "tipo": "CVT",
+          "rapporto_finale_differenziale": 5.200
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.65,
+          "efficienza_totale_driveline": 0.82
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 40,
+          "climatizzatore_acceso_W": 0
+        },
+        "note": "Parametri standard rappresentativi per ciclomotori 50cc 4T Euro5"
+      }
+    },
+    
+    "VOGE_SR450X_Electric": {
+      "peso_vuoto": 195,
+      "cx": 0.60,
+      "area_frontale": 0.68,
+      "efficienza_motore": 0.90,
+      "potere_calorifico_carburante": null,
+      "densita_carburante": null,
+      "specifiche_avanzate": {
+        "anno_produzione": 2026,
+        "piattaforma": "Crossover Adventure",
+        "motore": {
+          "codice_motore": "PMSM 398",
+          "tipo": "Elettrico a magneti permanenti, raffreddato a liquido",
+          "potenza_max_cv": 42,
+          "coppia_max_nm": 44,
+          "potenza_nominale_kw": 12,
+          "bsfc_minimo_g_kwh": null,
+          "minimo_motore_rpm": 0,
+          "batteria_kWh": 8.5,
+          "autonomia_km_wltp": 140
+        },
+        "trasmissione": {
+          "tipo": "Cinghia dentata",
+          "rapporto_finale_differenziale": 4.200
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.90,
+          "efficienza_totale_driveline": 0.94
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 0,
+          "climatizzatore_acceso_W": 0
+        },
+        "ricarica": {
+          "tempo_ricarica_standard_h": 6,
+          "tempo_ricarica_rapida_h": 2.5,
+          "tipo_spina": "Type 2 / Schuko"
+        },
+        "note": "Primo scooter adventure elettrico di VOGE. Ruote a raggi 17/14 pollici, ABS, TCS, sella e puoi riscaldabili, radar angoli ciechi [citation:3][citation:6]"
+      }
+    },
+    "Yadea_Voltguard": {
+      "peso_vuoto": 125,
+      "cx": 0.68,
+      "area_frontale": 0.60,
+      "efficienza_motore": 0.89,
+      "potere_calorifico_carburante": null,
+      "densita_carburante": null,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Urban Electric",
+        "motore": {
+          "codice_motore": "Yadea Side Motor",
+          "tipo": "Elettrico a magneti permanenti, trazione posteriore diretta",
+          "potenza_max_cv": 7.5,
+          "coppia_max_nm": 28,
+          "potenza_nominale_kw": 2.5,
+          "bsfc_minimo_g_kwh": null,
+          "minimo_motore_rpm": 0,
+          "batteria_kWh": 2.5,
+          "autonomia_km_wltp": 85
+        },
+        "trasmissione": {
+          "tipo": "Diretta (wheel motor)",
+          "rapporto_finale_differenziale": null
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.75,
+          "efficienza_totale_driveline": 0.92
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 0,
+          "climatizzatore_acceso_W": 0
+        },
+        "ricarica": {
+          "tempo_ricarica_standard_h": 5,
+          "tempo_ricarica_rapida_h": 3,
+          "tipo_spina": "Schuko"
+        },
+        "note": "Scooter elettrico urbano con batteria estraibile, presentato da Yadea a EICMA 2024 [citation:2]"
+      }
+    },
+    "Yadea_Fierider": {
+      "peso_vuoto": 118,
+      "cx": 0.67,
+      "area_frontale": 0.59,
+      "efficienza_motore": 0.90,
+      "potere_calorifico_carburante": null,
+      "densita_carburante": null,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Electric Sports Scooter",
+        "motore": {
+          "codice_motore": "Yadea Hub Motor Pro",
+          "tipo": "Elettrico brushless, trazione posteriore",
+          "potenza_max_cv": 6.7,
+          "coppia_max_nm": 25,
+          "potenza_nominale_kw": 2.0,
+          "bsfc_minimo_g_kwh": null,
+          "minimo_motore_rpm": 0,
+          "batteria_kWh": 2.2,
+          "autonomia_km_wltp": 75
+        },
+        "trasmissione": {
+          "tipo": "Diretta",
+          "rapporto_finale_differenziale": null
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.73,
+          "efficienza_totale_driveline": 0.92
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 0,
+          "climatizzatore_acceso_W": 0
+        },
+        "ricarica": {
+          "tempo_ricarica_standard_h": 4.5,
+          "tempo_ricarica_rapida_h": 2.5,
+          "tipo_spina": "Schuko"
+        },
+        "note": "Scooter elettrico dal design sportivo con batterie doppie estraibili [citation:2]"
+      }
+    },
+    "Bicose_EF40X": {
+      "peso_vuoto": 68,
+      "cx": 0.55,
+      "area_frontale": 0.45,
+      "efficienza_motore": 0.88,
+      "potere_calorifico_carburante": null,
+      "densita_carburante": null,
+      "specifiche_avanzate": {
+        "anno_produzione": 2024,
+        "piattaforma": "Off-Road Electric",
+        "motore": {
+          "codice_motore": "Bicose Mid-Drive",
+          "tipo": "Elettrico a magneti permanenti, trazione centrale",
+          "potenza_max_cv": 11.7,
+          "coppia_max_nm": 390,
+          "potenza_nominale_kw": 8.6,
+          "bsfc_minimo_g_kwh": null,
+          "minimo_motore_rpm": 0,
+          "batteria_kWh": 4.2,
+          "autonomia_km_wltp": 60
+        },
+        "trasmissione": {
+          "tipo": "Catena",
+          "rapporto_finale_differenziale": 3.200
+        },
+        "resistenza_meccanica": {
+          "circonferenza_rotolamento_metri": 1.95,
+          "efficienza_totale_driveline": 0.93
+        },
+        "assorbimenti_ausiliari_stimati_watt": {
+          "alternatore_base_W": 0,
+          "climatizzatore_acceso_W": 0
+        },
+        "ricarica": {
+          "tempo_ricarica_standard_h": 4,
+          "tempo_ricarica_rapida_h": 2,
+          "tipo_spina": "Schuko"
+        },
+
+          "note": "Motocross elettrico con motore centrale ad alta coppia, sospensioni a lunga escursione [citation:1]"
+      }
+    }
+  }
+
