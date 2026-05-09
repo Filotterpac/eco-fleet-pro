@@ -34,7 +34,9 @@ class MainDashboard extends StatefulWidget {
 
 // L'aggiunta di SingleTickerProviderStateMixin è essenziale per le animazioni delle tab
 class _MainDashboardState extends State<MainDashboard> with SingleTickerProviderStateMixin {
-  final String apiUrl = 'http://10.0.2.2:8000/api';
+
+  final String apiUrl = 'https://eco-fleet-pro-api.onrender.com/api';
+  //final String apiUrl = 'http://10.0.2.2:8000/api';
 
   late TabController _tabController; // <-- IL NOSTRO CONTROLLER DELLE TAB
 
